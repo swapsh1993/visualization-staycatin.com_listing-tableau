@@ -12,6 +12,7 @@
 •	**Tools and Technologies** – Here I have used Tableau for developing the project which includes a Dashboard and a Storytelling.
 
 •	**Dashboard**– The dashboard includes a bar chart showing top 10 earners, Scatter Plots for visualizing relationship between price & earning and price & reviews respectively. Also, a map is included to show the location with maximum earning.
+<img width="1964" height="830" alt="Dashboard Image" src="https://github.com/user-attachments/assets/0f532e36-0eb6-4a4d-84b0-c447ef997e2b" />
 
 •	**How to run this project** – 
 Step 1 – Read Staycatin.com Analysis report for introduction.
