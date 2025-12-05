@@ -19,4 +19,5 @@ Step 2 – Go through Dashboard pdf and storytelling pdf for understanding of da
 Step 3 – Now open the Tableau file Staycatin.com_listing dashboard using Tableau.
 
 •	Result and Conclusion – The project makes understand about Favorite place to visit for visitors. The stay locations having more and less priority have been discovered through this project. Also, the earning pattern of Stay locations was reviewed.
+
 •	Author & contact – Swapnil Shinde, Email ID – swapsh1993@yahoo.in
